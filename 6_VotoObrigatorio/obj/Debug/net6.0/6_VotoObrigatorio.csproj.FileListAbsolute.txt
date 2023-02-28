@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\bin\Debug\net6.0\6_VotoObrigatorio.exe
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\bin\Debug\net6.0\6_VotoObrigatorio.deps.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\bin\Debug\net6.0\6_VotoObrigatorio.runtimeconfig.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\bin\Debug\net6.0\6_VotoObrigatorio.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\bin\Debug\net6.0\ref\6_VotoObrigatorio.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\bin\Debug\net6.0\6_VotoObrigatorio.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\obj\Debug\net6.0\6_VotoObrigatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\obj\Debug\net6.0\6_VotoObrigatorio.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\obj\Debug\net6.0\6_VotoObrigatorio.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\obj\Debug\net6.0\6_VotoObrigatorio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\obj\Debug\net6.0\6_VotoObrigatorio.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\obj\Debug\net6.0\ref\6_VotoObrigatorio.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\obj\Debug\net6.0\6_VotoObrigatorio.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\6_VotoObrigatorio\obj\Debug\net6.0\6_VotoObrigatorio.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\bin\Debug\net6.0\5_DiasdaSemana.exe
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\bin\Debug\net6.0\5_DiasdaSemana.deps.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\bin\Debug\net6.0\5_DiasdaSemana.runtimeconfig.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\bin\Debug\net6.0\5_DiasdaSemana.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\bin\Debug\net6.0\ref\5_DiasdaSemana.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\bin\Debug\net6.0\5_DiasdaSemana.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\obj\Debug\net6.0\5_DiasdaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\obj\Debug\net6.0\5_DiasdaSemana.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\obj\Debug\net6.0\5_DiasdaSemana.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\obj\Debug\net6.0\5_DiasdaSemana.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\obj\Debug\net6.0\5_DiasdaSemana.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\obj\Debug\net6.0\ref\5_DiasdaSemana.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\obj\Debug\net6.0\5_DiasdaSemana.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\5_DiasdaSemana\obj\Debug\net6.0\5_DiasdaSemana.genruntimeconfig.cache

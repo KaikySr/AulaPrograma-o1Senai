@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\bin\Debug\net6.0\7_MaiorNumero.exe
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\bin\Debug\net6.0\7_MaiorNumero.deps.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\bin\Debug\net6.0\7_MaiorNumero.runtimeconfig.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\bin\Debug\net6.0\7_MaiorNumero.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\bin\Debug\net6.0\ref\7_MaiorNumero.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\bin\Debug\net6.0\7_MaiorNumero.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\obj\Debug\net6.0\7_MaiorNumero.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\obj\Debug\net6.0\7_MaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\obj\Debug\net6.0\7_MaiorNumero.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\obj\Debug\net6.0\7_MaiorNumero.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\obj\Debug\net6.0\7_MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\obj\Debug\net6.0\7_MaiorNumero.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\obj\Debug\net6.0\ref\7_MaiorNumero.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\obj\Debug\net6.0\7_MaiorNumero.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\7_MaiorNumero\obj\Debug\net6.0\7_MaiorNumero.genruntimeconfig.cache

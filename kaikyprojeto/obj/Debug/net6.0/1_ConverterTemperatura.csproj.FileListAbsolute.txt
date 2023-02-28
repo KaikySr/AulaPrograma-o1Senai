@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\1_ConverterTemperatura.exe
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\1_ConverterTemperatura.deps.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\1_ConverterTemperatura.runtimeconfig.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\1_ConverterTemperatura.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\ref\1_ConverterTemperatura.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\1_ConverterTemperatura.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\1_ConverterTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\1_ConverterTemperatura.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\1_ConverterTemperatura.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\1_ConverterTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\1_ConverterTemperatura.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\ref\1_ConverterTemperatura.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\1_ConverterTemperatura.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\1_ConverterTemperatura.genruntimeconfig.cache

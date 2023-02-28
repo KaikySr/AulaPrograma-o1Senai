@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\kaikyprojeto.exe
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\kaikyprojeto.deps.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\kaikyprojeto.runtimeconfig.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\kaikyprojeto.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\ref\kaikyprojeto.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\bin\Debug\net6.0\kaikyprojeto.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\kaikyprojeto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\kaikyprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\kaikyprojeto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\kaikyprojeto.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\kaikyprojeto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\kaikyprojeto.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\ref\kaikyprojeto.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\kaikyprojeto.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\kaikyprojeto\obj\Debug\net6.0\kaikyprojeto.genruntimeconfig.cache

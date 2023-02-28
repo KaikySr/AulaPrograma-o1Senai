@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\bin\Debug\net6.0\2_CalculadoraHoraTrabalhada.exe
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\bin\Debug\net6.0\2_CalculadoraHoraTrabalhada.deps.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\bin\Debug\net6.0\2_CalculadoraHoraTrabalhada.runtimeconfig.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\bin\Debug\net6.0\2_CalculadoraHoraTrabalhada.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\bin\Debug\net6.0\ref\2_CalculadoraHoraTrabalhada.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\bin\Debug\net6.0\2_CalculadoraHoraTrabalhada.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\obj\Debug\net6.0\2_CalculadoraHoraTrabalhada.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\obj\Debug\net6.0\2_CalculadoraHoraTrabalhada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\obj\Debug\net6.0\2_CalculadoraHoraTrabalhada.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\obj\Debug\net6.0\2_CalculadoraHoraTrabalhada.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\obj\Debug\net6.0\2_CalculadoraHoraTrabalhada.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\obj\Debug\net6.0\2_CalculadoraHoraTrabalhada.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\obj\Debug\net6.0\ref\2_CalculadoraHoraTrabalhada.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\obj\Debug\net6.0\2_CalculadoraHoraTrabalhada.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\teste\obj\Debug\net6.0\2_CalculadoraHoraTrabalhada.genruntimeconfig.cache

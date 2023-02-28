@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\bin\Debug\net6.0\4_EnergiaGasta.exe
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\bin\Debug\net6.0\4_EnergiaGasta.deps.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\bin\Debug\net6.0\4_EnergiaGasta.runtimeconfig.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\bin\Debug\net6.0\4_EnergiaGasta.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\bin\Debug\net6.0\ref\4_EnergiaGasta.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\bin\Debug\net6.0\4_EnergiaGasta.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\obj\Debug\net6.0\4_EnergiaGasta.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\obj\Debug\net6.0\4_EnergiaGasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\obj\Debug\net6.0\4_EnergiaGasta.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\obj\Debug\net6.0\4_EnergiaGasta.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\obj\Debug\net6.0\4_EnergiaGasta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\obj\Debug\net6.0\4_EnergiaGasta.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\obj\Debug\net6.0\ref\4_EnergiaGasta.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\obj\Debug\net6.0\4_EnergiaGasta.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\4_EnergiaGasta\obj\Debug\net6.0\4_EnergiaGasta.genruntimeconfig.cache

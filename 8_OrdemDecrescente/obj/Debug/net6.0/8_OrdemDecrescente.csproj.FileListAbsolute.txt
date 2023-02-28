@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\obj\Debug\net6.0\8_OrdemDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\obj\Debug\net6.0\8_OrdemDecrescente.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\obj\Debug\net6.0\8_OrdemDecrescente.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\obj\Debug\net6.0\8_OrdemDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\bin\Debug\net6.0\8_OrdemDecrescente.exe
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\bin\Debug\net6.0\8_OrdemDecrescente.deps.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\bin\Debug\net6.0\8_OrdemDecrescente.runtimeconfig.json
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\bin\Debug\net6.0\8_OrdemDecrescente.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\bin\Debug\net6.0\ref\8_OrdemDecrescente.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\bin\Debug\net6.0\8_OrdemDecrescente.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\obj\Debug\net6.0\8_OrdemDecrescente.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\obj\Debug\net6.0\ref\8_OrdemDecrescente.dll
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\obj\Debug\net6.0\8_OrdemDecrescente.pdb
+C:\Users\Aluno\Desktop\kaiky\kaikyprojeto\8_OrdemDecrescente\obj\Debug\net6.0\8_OrdemDecrescente.genruntimeconfig.cache
